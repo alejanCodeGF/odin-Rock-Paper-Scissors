@@ -54,7 +54,7 @@ btns.forEach(btn => {
                 const btn_try_again = document.createElement("button");
                 btn_try_again.textContent = "Try again!";
                 btn_try_again.addEventListener("click", () => { // Event of the try again button
-                    log_text.textContent = "";
+                    log_text.textContent = "Let's start!";
                     points_p1.textContent = "";
                     points_p2.textContent = "";
                     div_btns.removeChild(btn_try_again);

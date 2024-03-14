@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    background-color: lightcyan;
+}
+
+h1 {
+    border: 5px black solid;
+    background-color: lightblue;
+    font-size: 50px;
+    text-align: center;
+    padding: 35px 0;
+}
+
+p {
+    background-color: rgb(170, 235, 255);
+    padding: 12px;
+    margin: 12px auto;
+    font-size: 32px;
+    width: 400px;
+}
+
+button {
+    font-size: 32px;
+}
